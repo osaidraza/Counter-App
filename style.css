@@ -1,0 +1,24 @@
+.heading {
+    color: #ff0000;
+}
+
+.count-error {
+    color: #ff0000;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.count-input {
+    font-size: 18px;
+    border-color: #000000;
+}
+
+.b-1,
+.b-2,
+.b-3 {
+    background-color: #000000;
+    color: white;
+    font-size: 28px;
+    border-radius: 15px;
+}
